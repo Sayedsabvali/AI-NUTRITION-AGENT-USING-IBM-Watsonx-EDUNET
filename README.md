@@ -1,5 +1,7 @@
 **AI-Nutrition-Agent using IBM Watsonx | Edunet Internship**
+
 **Problem Statement 8****
+
 **Build an AI agent that provides personalized dietary recommendations and health tips using structured nutrition knowledge, ensuring user-specific guidance for weight loss, muscle gain, and chronic conditions like diabetes.**
 
 **Features**
